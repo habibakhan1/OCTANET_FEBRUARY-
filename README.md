@@ -1,4 +1,4 @@
-#**Burger-Smash LANDING PAGE**
+# **Burger-Smash LANDING PAGE**
 
 ![Screenshot 2025-02-28 185304](https://github.com/user-attachments/assets/3f4bbbe9-f3b9-4d5e-b868-7d06bbaefc9b)
 
