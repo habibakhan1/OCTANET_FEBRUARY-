@@ -13,7 +13,10 @@ This is a landing page created for Burger Smash, an imaginary burger restaurant,
 - ✅ Menu highlights & call-to-action buttons  
 - ✅ Simple yet effective UI  
 
-Built using **HTML, CSS, and JavaScript**.  
+## 🔧 Tech Stack
+- HTML
+- CSS
+- JavaScript
 
 
 ![Screenshot 2025-02-28 185322](https://github.com/user-attachments/assets/95da04e2-9f62-4d52-bedd-af8d5a9c228a)
@@ -30,3 +33,16 @@ The **Contact** section allows visitors to easily get in touch with **Burger Sma
 - **Social Media Links** – Connect with Burger Smash on various platforms  
 
 Designed to be user-friendly and accessible, ensuring a smooth communication experience!
+
+## 💻 Installation
+1. Clone this repo or download ZIP
+2. Open `index.html` in any web browser
+
+## 📚 What I Learned
+- How to structure a basic web app
+- Improved my CSS styling and JavaScript DOM skills
+
+## 🚀 Future Improvements
+- Add local storage support
+- Connect with a backend to save tasks
+- Add dark mode
