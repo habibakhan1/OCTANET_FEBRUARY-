@@ -46,3 +46,5 @@ Designed to be user-friendly and accessible, ensuring a smooth communication exp
 - Add local storage support
 - Connect with a backend to save tasks
 - Add dark mode
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
