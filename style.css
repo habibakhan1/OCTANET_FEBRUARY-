@@ -84,8 +84,8 @@ nav ul li a.current {
 
 /* ************************************************** header */
 #title {
-	background: url('burger.jpg') no-repeat center center/cover;
-	height: 100vh;
+	background: url("images/burgerbg.jpg") no-repeat center center/cover;
+	height: 100vh;burger
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -272,25 +272,4 @@ input[type="submit"]:hover {
     font-size: 1.6rem;
   }
 }
-	
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
 
